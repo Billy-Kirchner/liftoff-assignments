@@ -20,7 +20,11 @@ Diet Customization: Users will be able to create diets that meet their personal 
 User Login: As each person will have their own needs for a diet, diet restrictions for each user will be different. Therefore account creation and user login will help personalize planning for each individual.
 
 ### Technologies
-I plan to use the Java language as well as Spring Boot to create the core of this web application. I hope to possibly explore other technologies as well.
+Java
+SpringBoot
+Thymeleaf
+MySQL
+
 
 ### What I'll Have to Learn
 I believe that I will have to learn to use some more advanced front end coding and applications. After my core application is set up, I want to make the usage less clunky, with a more fluid interface.
