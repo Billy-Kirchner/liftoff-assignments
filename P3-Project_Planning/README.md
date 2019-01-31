@@ -28,4 +28,4 @@ https://www.pivotaltracker.com/n/projects/2238895
 
 (Include a link to your project on GitHub)
 
-https://github.com/bkirchner27/meal-planner
+https://github.com/Billy-Kirchner/meal-planner
